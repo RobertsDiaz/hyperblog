@@ -1,4 +1,4 @@
-# hyperblog :tw-1f60e:
+# hyperblog :green_heart:
 Un blog increible para el curso de Git y Github de Platzi
 > El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la insdustria del tejido de lana sintetica con machine learning
 > - niñita
